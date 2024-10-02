@@ -1,6 +1,6 @@
 from name_function import get_formatted_name
 
-
+## 파일이름이 test_***로 시작해야한다
 def test_first_last_name():
     """Do names like 'Janis Joplin' work?"""
     formatted_name = get_formatted_name('janis', 'joplin')
