@@ -1,0 +1,3261 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1728355780000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2013-01-01&endtime=2023-12-31&minlatitude=33.0&maxlatitude=43.0&minlongitude=124.0&maxlongitude=132.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.14.1",
+        "count": 81
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "21 km SSE of Popova, Russia",
+                "time": 1703617822475,
+                "updated": 1709415571040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000lzww",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000lzww&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000lzww",
+                "ids": ",us6000lzww,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 200,
+                "dmin": 1.428,
+                "rms": 0.69,
+                "gap": 28,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 21 km SSE of Popova, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.803,
+                    42.7773,
+                    522.98
+                ]
+            },
+            "id": "us6000lzww"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.8,
+                "place": "19 km SE of Gyeongju, South Korea",
+                "time": 1701287724597,
+                "updated": 1707256432040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000lesa",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000lesa&format=geojson",
+                "felt": 21,
+                "cdi": 4.1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 231,
+                "net": "us",
+                "code": "7000lesa",
+                "ids": ",us7000lesa,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 13,
+                "dmin": 1.2,
+                "rms": 0.82,
+                "gap": 112,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.8 - 19 km SE of Gyeongju, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.3778,
+                    35.7301,
+                    10
+                ]
+            },
+            "id": "us7000lesa"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "34 km E of Hoemul-li, North Korea",
+                "time": 1694015536189,
+                "updated": 1700250470040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ktnn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ktnn&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 370,
+                "net": "us",
+                "code": "7000ktnn",
+                "ids": ",us7000ktnn,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 181,
+                "dmin": 3.047,
+                "rms": 0.73,
+                "gap": 80,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 34 km E of Hoemul-li, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.0784,
+                    41.4904,
+                    644.879
+                ]
+            },
+            "id": "us7000ktnn"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "9 km SW of Hikari, Japan",
+                "time": 1693056573083,
+                "updated": 1698520538040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kr6n",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000kr6n&format=geojson",
+                "felt": 4,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 341,
+                "net": "us",
+                "code": "7000kr6n",
+                "ids": ",us7000kr6n,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 71,
+                "dmin": 1.668,
+                "rms": 0.85,
+                "gap": 66,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 9 km SW of Hikari, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.8827,
+                    33.8925,
+                    81.482
+                ]
+            },
+            "id": "us7000kr6n"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.9,
+                "place": "45 km NE of Tonghae, South Korea",
+                "time": 1684099656559,
+                "updated": 1690161415040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000kc19",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000kc19&format=geojson",
+                "felt": 6,
+                "cdi": 2.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 236,
+                "net": "us",
+                "code": "6000kc19",
+                "ids": ",us6000kc19,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 18,
+                "dmin": 1.314,
+                "rms": 0.48,
+                "gap": 47,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 3.9 - 45 km NE of Tonghae, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.4695,
+                    37.8336,
+                    12.995
+                ]
+            },
+            "id": "us6000kc19"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "33 km NW of Ashiya, Japan",
+                "time": 1676630325835,
+                "updated": 1682199196040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jpm2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000jpm2&format=geojson",
+                "felt": 2,
+                "cdi": 2.5,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000jpm2",
+                "ids": ",us6000jpm2,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 79,
+                "dmin": 0.931,
+                "rms": 0.45,
+                "gap": 88,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 33 km NW of Ashiya, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3669,
+                    34.0568,
+                    10
+                ]
+            },
+            "id": "us6000jpm2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.6,
+                "place": "South Korea",
+                "time": 1673195295482,
+                "updated": 1679292180040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000j304",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000j304&format=geojson",
+                "felt": 20,
+                "cdi": 4.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 208,
+                "net": "us",
+                "code": "7000j304",
+                "ids": ",us7000j304,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.424,
+                "rms": 0.56,
+                "gap": 242,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.6 - South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.2251,
+                    37.7593,
+                    16.663
+                ]
+            },
+            "id": "us7000j304"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.2,
+                "place": "South Korea",
+                "time": 1666999669843,
+                "updated": 1676893980505,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000il49",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000il49&format=geojson",
+                "felt": 6,
+                "cdi": 4.9,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 160,
+                "net": "us",
+                "code": "7000il49",
+                "ids": ",us7000il49,",
+                "sources": ",us,",
+                "types": ",dyfi,impact-text,origin,phase-data,",
+                "nst": 14,
+                "dmin": 0.547,
+                "rms": 0.37,
+                "gap": 79,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 3.2 - South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.8467,
+                    36.895,
+                    9.469
+                ]
+            },
+            "id": "us7000il49"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "eastern Russia-northeastern China border region",
+                "time": 1659463181062,
+                "updated": 1665586202040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7in",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000i7in&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000i7in",
+                "ids": ",us6000i7in,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 159,
+                "dmin": 1.37,
+                "rms": 0.62,
+                "gap": 90,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - eastern Russia-northeastern China border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9425,
+                    42.8297,
+                    520.242
+                ]
+            },
+            "id": "us6000i7in"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "124 km SE of Ungsang-nodongjagu, North Korea",
+                "time": 1641505945287,
+                "updated": 1647123553040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9qz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g9qz&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "7000g9qz",
+                "ids": ",us7000g9qz,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.665,
+                "rms": 0.5,
+                "gap": 39,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 124 km SE of Ungsang-nodongjagu, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.5079,
+                    41.5567,
+                    546.6
+                ]
+            },
+            "id": "us7000g9qz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "South Korea",
+                "time": 1639469955812,
+                "updated": 1679730698037,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gc4p",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000gc4p&format=geojson",
+                "felt": 58,
+                "cdi": 5.6,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 358,
+                "net": "us",
+                "code": "6000gc4p",
+                "ids": ",us6000gc4p,",
+                "sources": ",us,",
+                "types": ",dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 3.178,
+                "rms": 1.14,
+                "gap": 51,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.0046,
+                    33.0651,
+                    10
+                ]
+            },
+            "id": "us6000gc4p"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "163 km NW of Sinan, South Korea",
+                "time": 1629506442457,
+                "updated": 1637027458495,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f97a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f97a&format=geojson",
+                "felt": 19,
+                "cdi": 4.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 334,
+                "net": "us",
+                "code": "6000f97a",
+                "ids": ",us6000f97a,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.289,
+                "rms": 0.72,
+                "gap": 81,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 163 km NW of Sinan, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.6625,
+                    35.7064,
+                    10
+                ]
+            },
+            "id": "us6000f97a"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "114 km SE of Ungsang-nodongjagu, North Korea",
+                "time": 1629117153248,
+                "updated": 1635518781040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6ye",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f6ye&format=geojson",
+                "felt": 3,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 285,
+                "net": "us",
+                "code": "6000f6ye",
+                "ids": ",us6000f6ye,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.635,
+                "rms": 0.74,
+                "gap": 38,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 114 km SE of Ungsang-nodongjagu, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.393,
+                    41.5979,
+                    559.68
+                ]
+            },
+            "id": "us6000f6ye"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.2,
+                "place": "29 km NE of Kitsuki, Japan",
+                "time": 1626522599304,
+                "updated": 1632604078040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000emw6&format=geojson",
+                "felt": 14,
+                "cdi": 3.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 421,
+                "net": "us",
+                "code": "7000emw6",
+                "ids": ",us7000emw6,usauto7000emw6,",
+                "sources": ",us,usauto,",
+                "types": ",dyfi,internal-moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.714,
+                "rms": 0.6,
+                "gap": 31,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.2 - 29 km NE of Kitsuki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.825,
+                    33.6171,
+                    63.64
+                ]
+            },
+            "id": "us7000emw6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "208 km SE of Yatou, China",
+                "time": 1610994088161,
+                "updated": 1616879119040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000d167",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000d167&format=geojson",
+                "felt": 25,
+                "cdi": 4.9,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 310,
+                "net": "us",
+                "code": "7000d167",
+                "ids": ",us7000d167,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.662,
+                "rms": 0.6,
+                "gap": 37,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 208 km SE of Yatou, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.047,
+                    35.8027,
+                    10
+                ]
+            },
+            "id": "us7000d167"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "22 km ESE of Zarubino, Russia",
+                "time": 1594716360468,
+                "updated": 1600549101040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000an9d",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000an9d&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "7000an9d",
+                "ids": ",us7000an9d,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.734,
+                "rms": 0.86,
+                "gap": 79,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 22 km ESE of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.3239,
+                    42.5342,
+                    562.94
+                ]
+            },
+            "id": "us7000an9d"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.8,
+                "place": "32 km E of Koksan, North Korea",
+                "time": 1589193905924,
+                "updated": 1609873737302,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70009eep",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us70009eep&format=geojson",
+                "felt": 6,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 224,
+                "net": "us",
+                "code": "70009eep",
+                "ids": ",us70009eep,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.308,
+                "rms": 0.38,
+                "gap": 113,
+                "magType": "mb_lg",
+                "type": "earthquake",
+                "title": "M 3.8 - 32 km E of Koksan, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.036,
+                    38.7468,
+                    10
+                ]
+            },
+            "id": "us70009eep"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.8,
+                "place": "11 km ESE of Tanushimarumachi-toyoki, Japan",
+                "time": 1584358940797,
+                "updated": 1590877036040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60008gsp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60008gsp&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 222,
+                "net": "us",
+                "code": "60008gsp",
+                "ids": ",us60008gsp,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.836,
+                "rms": 0.51,
+                "gap": 132,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.8 - 11 km ESE of Tanushimarumachi-toyoki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8069,
+                    33.3266,
+                    10
+                ]
+            },
+            "id": "us60008gsp"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "28 km NE of Usuki, Japan",
+                "time": 1583695724689,
+                "updated": 1590271396040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60008c4z",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60008c4z&format=geojson",
+                "felt": 23,
+                "cdi": 5,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 381,
+                "net": "us",
+                "code": "60008c4z",
+                "ids": ",us60008c4z,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.623,
+                "rms": 1.34,
+                "gap": 96,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 28 km NE of Usuki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9925,
+                    33.3291,
+                    57.64
+                ]
+            },
+            "id": "us60008c4z"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.5,
+                "place": "21 km WNW of Mungyeong, South Korea",
+                "time": 1580313173047,
+                "updated": 1667108858281,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60007jla",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60007jla&format=geojson",
+                "felt": 1,
+                "cdi": 2.5,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 189,
+                "net": "us",
+                "code": "60007jla",
+                "ids": ",us60007jla,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.594,
+                "rms": 0.44,
+                "gap": 244,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.5 - 21 km WNW of Mungyeong, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.9929,
+                    36.6882,
+                    10
+                ]
+            },
+            "id": "us60007jla"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "63 km SE of Zarubino, Russia",
+                "time": 1573619063116,
+                "updated": 1581106831040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006aiz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us70006aiz&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "70006aiz",
+                "ids": ",us70006aiz,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.051,
+                "rms": 0.76,
+                "gap": 45,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 63 km SE of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.5449,
+                    42.1737,
+                    545.67
+                ]
+            },
+            "id": "us70006aiz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "54 km SE of Ungsang-nodongjagu, North Korea",
+                "time": 1563228337342,
+                "updated": 1569700843040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60004uut",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60004uut&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "60004uut",
+                "ids": ",us60004uut,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.313,
+                "rms": 0.76,
+                "gap": 77,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 54 km SE of Ungsang-nodongjagu, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.9379,
+                    42.0169,
+                    567
+                ]
+            },
+            "id": "us60004uut"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.6,
+                "place": "10 km W of Chunghwa, North Korea",
+                "time": 1561616391787,
+                "updated": 1659968431659,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us700045sm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us700045sm&format=geojson",
+                "felt": 3,
+                "cdi": 5.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 201,
+                "net": "us",
+                "code": "700045sm",
+                "ids": ",us700045sm,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.565,
+                "rms": 0.44,
+                "gap": 131,
+                "magType": "mb_lg",
+                "type": "earthquake",
+                "title": "M 3.6 - 10 km W of Chunghwa, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.6782,
+                    38.8562,
+                    10
+                ]
+            },
+            "id": "us700045sm"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "50 km NE of Tonghae, South Korea",
+                "time": 1555640203083,
+                "updated": 1561582493040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70003cje",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us70003cje&format=geojson",
+                "felt": 2,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 299,
+                "net": "us",
+                "code": "70003cje",
+                "ids": ",us70003cje,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.331,
+                "rms": 0.99,
+                "gap": 49,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 50 km NE of Tonghae, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.5212,
+                    37.8585,
+                    10
+                ]
+            },
+            "id": "us70003cje"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "9 km E of ?muta, Japan",
+                "time": 1548479793830,
+                "updated": 1555089317040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j94a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j94a&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "2000j94a",
+                "ids": ",us2000j94a,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.282,
+                "rms": 0.65,
+                "gap": 123,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 9 km E of ?muta, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.5567,
+                    33.0377,
+                    10
+                ]
+            },
+            "id": "us2000j94a"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "2 km NE of ?muta, Japan",
+                "time": 1546506628440,
+                "updated": 1594401715993,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j00n",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j00n&format=geojson",
+                "felt": 11,
+                "cdi": 4.1,
+                "mmi": 5.306,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 344,
+                "net": "us",
+                "code": "2000j00n",
+                "ids": ",us2000j00n,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.348,
+                "rms": 0.6,
+                "gap": 97,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 2 km NE of ?muta, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.4705,
+                    33.0514,
+                    10
+                ]
+            },
+            "id": "us2000j00n"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "15 km NNW of Hagi, Japan",
+                "time": 1535924870490,
+                "updated": 1541615829040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000h6yi",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000h6yi&format=geojson",
+                "felt": 2,
+                "cdi": 2.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "2000h6yi",
+                "ids": ",us2000h6yi,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.463,
+                "rms": 0.66,
+                "gap": 86,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 15 km NNW of Hagi, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.3736,
+                    34.5324,
+                    21.28
+                ]
+            },
+            "id": "us2000h6yi"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "10 km NE of Kashima, Japan",
+                "time": 1531075986610,
+                "updated": 1538057025040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000g01v",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000g01v&format=geojson",
+                "felt": 2,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 299,
+                "net": "us",
+                "code": "2000g01v",
+                "ids": ",us2000g01v,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.592,
+                "rms": 1.04,
+                "gap": 110,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 10 km NE of Kashima, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.1726,
+                    33.1756,
+                    10
+                ]
+            },
+            "id": "us2000g01v"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "4 km NNW of Takedamachi, Japan",
+                "time": 1528403102050,
+                "updated": 1535560520040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000ep78",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000ep78&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "1000ep78",
+                "ids": ",us1000ep78,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.444,
+                "rms": 0.79,
+                "gap": 95,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 4 km NNW of Takedamachi, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.3867,
+                    33.0072,
+                    119.51
+                ]
+            },
+            "id": "us1000ep78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.7,
+                "place": "6 km NNE of Setakamachi-takayanagi, Japan",
+                "time": 1527092753960,
+                "updated": 1534886629040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000eaww",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000eaww&format=geojson",
+                "felt": 8,
+                "cdi": 2.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 213,
+                "net": "us",
+                "code": "1000eaww",
+                "ids": ",us1000eaww,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.342,
+                "rms": 0.42,
+                "gap": 213,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 3.7 - 6 km NNE of Setakamachi-takayanagi, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.4797,
+                    33.2047,
+                    10
+                ]
+            },
+            "id": "us1000eaww"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "5 km SW of Heunghae, South Korea",
+                "time": 1518292983910,
+                "updated": 1609873571682,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000d0cy",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000d0cy&format=geojson",
+                "felt": 52,
+                "cdi": 6.7,
+                "mmi": 6.406,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 375,
+                "net": "us",
+                "code": "2000d0cy",
+                "ids": ",us2000d0cy,",
+                "sources": ",us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.547,
+                "rms": 0.57,
+                "gap": 22,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 4.7 - 5 km SW of Heunghae, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.2983,
+                    36.0763,
+                    5.4
+                ]
+            },
+            "id": "us2000d0cy"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "4 km WNW of Pohang, South Korea",
+                "time": 1510732170600,
+                "updated": 1609873397047,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000bnsz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000bnsz&format=geojson",
+                "felt": 14,
+                "cdi": 6.2,
+                "mmi": 5.656,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 349,
+                "net": "us",
+                "code": "2000bnsz",
+                "ids": ",us2000bnsz,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.509,
+                "rms": 0.51,
+                "gap": 101,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 4 km WNW of Pohang, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.318,
+                    36.0394,
+                    10
+                ]
+            },
+            "id": "us2000bnsz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.5,
+                "place": "7 km SW of Heunghae, South Korea",
+                "time": 1510723772820,
+                "updated": 1678607504841,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000bnrs",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000bnrs&format=geojson",
+                "felt": 367,
+                "cdi": 7.7,
+                "mmi": 6.772,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 933,
+                "net": "us",
+                "code": "2000bnrs",
+                "ids": ",us2000bnrs,iscgem611461139,",
+                "sources": ",us,iscgem,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.545,
+                "rms": 0.71,
+                "gap": 26,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.5 - 7 km SW of Heunghae, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.28,
+                    36.0735,
+                    10
+                ]
+            },
+            "id": "us2000bnrs"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.9,
+                "place": "22 km ENE of S?ngjibaegam, North Korea",
+                "time": 1507826468670,
+                "updated": 1659901827143,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000aqsx",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000aqsx&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 130,
+                "net": "us",
+                "code": "1000aqsx",
+                "ids": ",us1000aqsx,",
+                "sources": ",us,",
+                "types": ",dyfi,general-header,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 3.286,
+                "rms": 0.45,
+                "gap": 172,
+                "magType": "mb_lg",
+                "type": "earthquake",
+                "title": "M 2.9 - 22 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0251,
+                    41.3563,
+                    5
+                ]
+            },
+            "id": "us1000aqsx"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.6,
+                "place": "21 km ENE of S?ngjibaegam, North Korea",
+                "time": 1506155356810,
+                "updated": 1659896570248,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ati7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000ati7&format=geojson",
+                "felt": 4,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 600,
+                "net": "us",
+                "code": "2000ati7",
+                "ids": ",us2000ati7,",
+                "sources": ",us,",
+                "types": ",dyfi,general-header,origin,phase-data,significance,",
+                "nst": null,
+                "dmin": 3.344,
+                "rms": 0.65,
+                "gap": 160,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.6 - 21 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0438,
+                    41.2958,
+                    5
+                ]
+            },
+            "id": "us2000ati7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "21 km ENE of S?ngjibaegam, North Korea",
+                "time": 1504409911810,
+                "updated": 1659889411335,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000aetk",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000aetk&format=geojson",
+                "felt": 3,
+                "cdi": 3.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 260,
+                "net": "us",
+                "code": "2000aetk",
+                "ids": ",us2000aetk,",
+                "sources": ",us,",
+                "types": ",dyfi,general-header,origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.53,
+                "gap": null,
+                "magType": "ml",
+                "type": "collapse",
+                "title": "M 4.1 Collapse - 21 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.031,
+                    41.334,
+                    0
+                ]
+            },
+            "id": "us2000aetk"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "21 km ENE of S?ngjibaegam, North Korea",
+                "time": 1504409401760,
+                "updated": 1659889359738,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000aert",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000aert&format=geojson",
+                "felt": 44,
+                "cdi": 7.8,
+                "mmi": 5.85,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 645,
+                "net": "us",
+                "code": "2000aert",
+                "ids": ",us2000aert,",
+                "sources": ",us,",
+                "types": ",dyfi,general-header,impact-text,losspager,origin,phase-data,poster,shakemap,",
+                "nst": null,
+                "dmin": 3.309,
+                "rms": 0.83,
+                "gap": 10,
+                "magType": "mb",
+                "type": "nuclear explosion",
+                "title": "M 6.3 Nuclear Explosion - 21 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0297,
+                    41.3324,
+                    0
+                ]
+            },
+            "id": "us2000aert"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4,
+                "place": "14 km NE of Zarubino, Russia",
+                "time": 1501369447170,
+                "updated": 1507940386040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000a2l0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000a2l0&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 246,
+                "net": "us",
+                "code": "2000a2l0",
+                "ids": ",us2000a2l0,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.582,
+                "rms": 0.7,
+                "gap": 32,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.0 - 14 km NE of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.2125,
+                    42.7214,
+                    548.61
+                ]
+            },
+            "id": "us2000a2l0"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "179 km ESE of Hoemul-li, North Korea",
+                "time": 1499888887810,
+                "updated": 1651602811530,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20009vsi",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20009vsi&format=geojson",
+                "felt": 6,
+                "cdi": 2.5,
+                "mmi": 2.15,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 537,
+                "net": "us",
+                "code": "20009vsi",
+                "ids": ",us20009vsi,iscgem610781336,",
+                "sources": ",us,iscgem,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.35,
+                "rms": 1.02,
+                "gap": 25,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 179 km ESE of Hoemul-li, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.6637,
+                    40.8551,
+                    545
+                ]
+            },
+            "id": "us20009vsi"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4,
+                "place": "177 km SE of Iw?n-?p, North Korea",
+                "time": 1490261051490,
+                "updated": 1497296814040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10008daf",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10008daf&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 246,
+                "net": "us",
+                "code": "10008daf",
+                "ids": ",us10008daf,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.553,
+                "rms": 0.73,
+                "gap": 45,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.0 - 177 km SE of Iw?n-?p, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2145,
+                    39.2695,
+                    572.51
+                ]
+            },
+            "id": "us10008daf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "13 km NW of Maebaru-ch??, Japan",
+                "time": 1479431945380,
+                "updated": 1487200886040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100079rs",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100079rs&format=geojson",
+                "felt": 3,
+                "cdi": 4.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 260,
+                "net": "us",
+                "code": "100079rs",
+                "ids": ",us100079rs,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.831,
+                "rms": 0.65,
+                "gap": 93,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 13 km NW of Maebaru-ch??, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.1074,
+                    33.6533,
+                    10
+                ]
+            },
+            "id": "us100079rs"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.5,
+                "place": "9km SSE of Gyeongju, South Korea",
+                "time": 1474426433480,
+                "updated": 1609872790903,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006ra4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006ra4&format=geojson",
+                "felt": 11,
+                "cdi": 4.9,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 194,
+                "net": "us",
+                "code": "10006ra4",
+                "ids": ",us10006ra4,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.233,
+                "rms": 0.57,
+                "gap": 119,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.5 - 9km SSE of Gyeongju, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.2398,
+                    35.7567,
+                    10
+                ]
+            },
+            "id": "us10006ra4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "10 km SSW of Gyeongju, South Korea",
+                "time": 1474284838130,
+                "updated": 1678606850384,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006qtm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006qtm&format=geojson",
+                "felt": 97,
+                "cdi": 6.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 391,
+                "net": "us",
+                "code": "10006qtm",
+                "ids": ",us10006qtm,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.513,
+                "rms": 0.63,
+                "gap": 73,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.6 - 10 km SSW of Gyeongju, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.1631,
+                    35.7615,
+                    8.84
+                ]
+            },
+            "id": "us10006qtm"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.4,
+                "place": "6km S of Gyeongju, South Korea",
+                "time": 1473679975770,
+                "updated": 1713509265322,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006p1f",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006p1f&format=geojson",
+                "felt": 431,
+                "cdi": 8.3,
+                "mmi": 6.727,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1008,
+                "net": "us",
+                "code": "10006p1f",
+                "ids": ",us10006p1f,gcmt20160912113254,iscgem609440121,",
+                "sources": ",us,gcmt,iscgem,",
+                "types": ",cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.537,
+                "rms": 0.85,
+                "gap": 29,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.4 - 6km S of Gyeongju, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.2162,
+                    35.7808,
+                    13
+                ]
+            },
+            "id": "us10006p1f"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "14km SW of Gyeongju, South Korea",
+                "time": 1473677073130,
+                "updated": 1678606488019,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006p12",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006p12&format=geojson",
+                "felt": 196,
+                "cdi": 7.2,
+                "mmi": 5.905,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 511,
+                "net": "us",
+                "code": "10006p12",
+                "ids": ",us10006p12,iscgem609440120,",
+                "sources": ",us,iscgem,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.493,
+                "rms": 0.8,
+                "gap": 49,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 14km SW of Gyeongju, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.1062,
+                    35.7428,
+                    10
+                ]
+            },
+            "id": "us10006p12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.3,
+                "place": "23 km ENE of S?ngjibaegam, North Korea",
+                "time": 1473381001440,
+                "updated": 1481079366040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006n8a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006n8a&format=geojson",
+                "felt": 18,
+                "cdi": 7.9,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "us",
+                "code": "10006n8a",
+                "ids": ",us10006n8a,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,general-header,impact-text,origin,phase-data,poster,significance,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.68,
+                "gap": null,
+                "magType": "mb",
+                "type": "nuclear explosion",
+                "title": "M 5.3 Nuclear Explosion - 23 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0783,
+                    41.2869,
+                    0
+                ]
+            },
+            "id": "us10006n8a"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "26 km ENE of Kitsuki, Japan",
+                "time": 1471235807970,
+                "updated": 1479176509040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006duj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006duj&format=geojson",
+                "felt": 6,
+                "cdi": 2.5,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 371,
+                "net": "us",
+                "code": "10006duj",
+                "ids": ",us10006duj,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.922,
+                "rms": 1.06,
+                "gap": 80,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 26 km ENE of Kitsuki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.8948,
+                    33.478,
+                    71.68
+                ]
+            },
+            "id": "us10006duj"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "17 km NNE of Bungo-Takada-shi, Japan",
+                "time": 1468876963800,
+                "updated": 1474075670040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20006grd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20006grd&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "20006grd",
+                "ids": ",us20006grd,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.79,
+                "rms": 0.83,
+                "gap": 84,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 17 km NNE of Bungo-Takada-shi, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.5413,
+                    33.6878,
+                    123.4
+                ]
+            },
+            "id": "us20006grd"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "52 km E of Ulsan, South Korea",
+                "time": 1467718383630,
+                "updated": 1678606190089,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000601a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000601a&format=geojson",
+                "felt": 34,
+                "cdi": 4.3,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 354,
+                "net": "us",
+                "code": "1000601a",
+                "ids": ",us1000601a,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.703,
+                "rms": 0.86,
+                "gap": 23,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.7 - 52 km E of Ulsan, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.8993,
+                    35.5358,
+                    10
+                ]
+            },
+            "id": "us1000601a"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "17 km NE of Kitsuki, Japan",
+                "time": 1467351598300,
+                "updated": 1472852192040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10005z0q",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10005z0q&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 369,
+                "net": "us",
+                "code": "10005z0q",
+                "ids": ",us10005z0q,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.841,
+                "rms": 0.86,
+                "gap": 54,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 17 km NE of Kitsuki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.7613,
+                    33.5263,
+                    78.9
+                ]
+            },
+            "id": "us10005z0q"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "7 km NNW of Aso, Japan",
+                "time": 1462412414350,
+                "updated": 1468958593040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10005dy4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10005dy4&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "10005dy4",
+                "ids": ",us10005dy4,",
+                "sources": ",us,",
+                "types": ",impact-text,moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.191,
+                "rms": 0.78,
+                "gap": 89,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.6 - 7 km NNW of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.05,
+                    33.001,
+                    13.65
+                ]
+            },
+            "id": "us10005dy4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "12 km ESE of Tsukawaki, Japan",
+                "time": 1461910175880,
+                "updated": 1468958585040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10005cdp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10005cdp&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "10005cdp",
+                "ids": ",us10005cdp,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.366,
+                "rms": 0.99,
+                "gap": 100,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 12 km ESE of Tsukawaki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.2868,
+                    33.2523,
+                    2.35
+                ]
+            },
+            "id": "us10005cdp"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "6 km WSW of Beppu, Japan",
+                "time": 1461183412830,
+                "updated": 1467068549040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005k9h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005k9h&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "20005k9h",
+                "ids": ",us20005k9h,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.482,
+                "rms": 0.56,
+                "gap": 130,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 6 km WSW of Beppu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.4328,
+                    33.2495,
+                    8.02
+                ]
+            },
+            "id": "us20005k9h"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "8 km WSW of Beppu, Japan",
+                "time": 1461130065400,
+                "updated": 1467068544040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005k22",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005k22&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "20005k22",
+                "ids": ",us20005k22,",
+                "sources": ",us,",
+                "types": ",impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.467,
+                "rms": 0.84,
+                "gap": 101,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 8 km WSW of Beppu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.4164,
+                    33.2429,
+                    14.16
+                ]
+            },
+            "id": "us20005k22"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "7 km N of Aso, Japan",
+                "time": 1461014402470,
+                "updated": 1467068531040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005jm2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005jm2&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "20005jm2",
+                "ids": ",us20005jm2,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.214,
+                "rms": 0.73,
+                "gap": 104,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 7 km N of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.0887,
+                    33.0045,
+                    10
+                ]
+            },
+            "id": "us20005jm2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.5,
+                "place": "8 km NNE of Aso, Japan",
+                "time": 1460979720220,
+                "updated": 1651599878672,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005jgz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005jgz&format=geojson",
+                "felt": 9,
+                "cdi": 4.2,
+                "mmi": 6.4,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 469,
+                "net": "us",
+                "code": "20005jgz",
+                "ids": ",us20005jgz,gcmt20160418114200,iscgem608557429,atlas20160418114200,",
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "types": ",cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.217,
+                "rms": 0.91,
+                "gap": 52,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.5 - 8 km NNE of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.0991,
+                    33.0143,
+                    10.46
+                ]
+            },
+            "id": "us20005jgz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "8 km NNW of Aso, Japan",
+                "time": 1460831422760,
+                "updated": 1467068511040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005j1s",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005j1s&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "20005j1s",
+                "ids": ",us20005j1s,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.182,
+                "rms": 0.64,
+                "gap": 90,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 8 km NNW of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.0501,
+                    33.0139,
+                    15.88
+                ]
+            },
+            "id": "us20005j1s"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "11 km WSW of Beppu, Japan",
+                "time": 1460758300270,
+                "updated": 1659465195261,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005iu4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005iu4&format=geojson",
+                "felt": 2,
+                "cdi": 3.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 401,
+                "net": "us",
+                "code": "20005iu4",
+                "ids": ",us20005iu4,iscgem610291136,",
+                "sources": ",us,iscgem,",
+                "types": ",cap,dyfi,impact-text,moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.435,
+                "rms": 0.61,
+                "gap": 47,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 5.1 - 11 km WSW of Beppu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.3738,
+                    33.2528,
+                    10
+                ]
+            },
+            "id": "us20005iu4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "17 km NNE of Aso, Japan",
+                "time": 1460746918950,
+                "updated": 1467068502040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005l03",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005l03&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "20005l03",
+                "ids": ",us20005l03,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.246,
+                "rms": 1.28,
+                "gap": 107,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 17 km NNE of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.1656,
+                    33.0808,
+                    10
+                ]
+            },
+            "id": "us20005l03"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.5,
+                "place": "10 km NE of Aso, Japan",
+                "time": 1460746553500,
+                "updated": 1659465135534,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005inz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005inz&format=geojson",
+                "felt": 4,
+                "cdi": 3.1,
+                "mmi": 6.493,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 467,
+                "net": "us",
+                "code": "20005inz",
+                "ids": ",us20005inz,iscgem613407288,atlas20160415185553,",
+                "sources": ",us,iscgem,atlas,",
+                "types": ",cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "nst": null,
+                "dmin": 0.263,
+                "rms": 0.87,
+                "gap": 19,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 5.5 - 10 km NE of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.1569,
+                    33.0051,
+                    13.22
+                ]
+            },
+            "id": "us20005inz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "18 km NNW of Aso, Japan",
+                "time": 1460744449930,
+                "updated": 1467068501040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005inf",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005inf&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "20005inf",
+                "ids": ",us20005inf,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.119,
+                "rms": 0.74,
+                "gap": 102,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 18 km NNW of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.0131,
+                    33.0919,
+                    19.81
+                ]
+            },
+            "id": "us20005inf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "12 km NNE of Kikuchi, Japan",
+                "time": 1460744202610,
+                "updated": 1659465122904,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005in9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005in9&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "20005in9",
+                "ids": ",us20005in9,",
+                "sources": ",us,",
+                "types": ",cap,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.038,
+                "rms": 1.01,
+                "gap": 45,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 12 km NNE of Kikuchi, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8645,
+                    33.0883,
+                    18.99
+                ]
+            },
+            "id": "us20005in9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "17 km WSW of Beppu, Japan",
+                "time": 1460742558090,
+                "updated": 1467068500040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005imv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005imv&format=geojson",
+                "felt": 0,
+                "cdi": 1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "20005imv",
+                "ids": ",us20005imv,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.39,
+                "rms": 0.71,
+                "gap": 101,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 17 km WSW of Beppu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.3317,
+                    33.209,
+                    10
+                ]
+            },
+            "id": "us20005imv"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "16 km NE of Aso, Japan",
+                "time": 1460740383450,
+                "updated": 1467068500040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005kz8",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005kz8&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "20005kz8",
+                "ids": ",us20005kz8,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.265,
+                "rms": 0.81,
+                "gap": 104,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 16 km NE of Aso, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.183,
+                    33.0573,
+                    6.6
+                ]
+            },
+            "id": "us20005kz8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "21 km ENE of S?ngjibaegam, North Korea",
+                "time": 1452043801480,
+                "updated": 1659861676571,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10004bnm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10004bnm&format=geojson",
+                "felt": 11,
+                "cdi": 6.6,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "us",
+                "code": "10004bnm",
+                "ids": ",us10004bnm,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,significance,",
+                "nst": null,
+                "dmin": 3.34,
+                "rms": 0.83,
+                "gap": 21,
+                "magType": "mb",
+                "type": "nuclear explosion",
+                "title": "M 5.1 Nuclear Explosion - 21 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0467,
+                    41.2996,
+                    0
+                ]
+            },
+            "id": "us10004bnm"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "11 km N of Iksan, South Korea",
+                "time": 1450726284380,
+                "updated": 1659400153407,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100048nj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100048nj&format=geojson",
+                "felt": 24,
+                "cdi": 4.1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 308,
+                "net": "us",
+                "code": "100048nj",
+                "ids": ",us100048nj,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.451,
+                "rms": 0.76,
+                "gap": 43,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 11 km N of Iksan, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.9667,
+                    36.0495,
+                    10
+                ]
+            },
+            "id": "us100048nj"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.5,
+                "place": "12 km SSW of Usuki, Japan",
+                "time": 1436723526170,
+                "updated": 1659290638225,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002wz9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002wz9&format=geojson",
+                "felt": 40,
+                "cdi": 5.4,
+                "mmi": 4.415,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 487,
+                "net": "us",
+                "code": "20002wz9",
+                "ids": ",us20002wz9,gcmt20150712175206,iscgem607394230,",
+                "sources": ",us,gcmt,iscgem,",
+                "types": ",cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.739,
+                "rms": 0.95,
+                "gap": 57,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.5 - 12 km SSW of Usuki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.7493,
+                    33.0229,
+                    53
+                ]
+            },
+            "id": "us20002wz9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "33 km S of Hikari, Japan",
+                "time": 1414838187680,
+                "updated": 1421744588040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000stbq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000stbq&format=geojson",
+                "felt": 0,
+                "cdi": 0,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "c000stbq",
+                "ids": ",usc000stbq,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.038,
+                "rms": 0.82,
+                "gap": 79,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 33 km S of Hikari, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9462,
+                    33.6533,
+                    73.97
+                ]
+            },
+            "id": "usc000stbq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "12 km SSW of Hikari, Japan",
+                "time": 1407970288660,
+                "updated": 1416024427000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000s2hh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000s2hh&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "b000s2hh",
+                "ids": ",usb000s2hh,",
+                "sources": ",us,",
+                "types": ",cap,impact-text,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.112,
+                "rms": 0.48,
+                "gap": 77,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 12 km SSW of Hikari, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.888,
+                    33.8501,
+                    81.85
+                ]
+            },
+            "id": "usb000s2hh"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "7 km NNW of Tsurusaki, Japan",
+                "time": 1406995796580,
+                "updated": 1414612374000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000s2qe",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000s2qe&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 340,
+                "net": "us",
+                "code": "b000s2qe",
+                "ids": ",usb000s2qe,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.673,
+                "rms": 0.82,
+                "gap": 56,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 7 km NNW of Tsurusaki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.6528,
+                    33.2997,
+                    94.87
+                ]
+            },
+            "id": "usb000s2qe"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4,
+                "place": "154 km SSE of Zarubino, Russia",
+                "time": 1402806717060,
+                "updated": 1410536854000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rfq0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000rfq0&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 246,
+                "net": "us",
+                "code": "c000rfq0",
+                "ids": ",usc000rfq0,",
+                "sources": ",us,",
+                "types": ",cap,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.81,
+                "rms": 0.54,
+                "gap": 47,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.0 - 154 km SSE of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9224,
+                    41.3879,
+                    540.54
+                ]
+            },
+            "id": "usc000rfq0"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "34 km ENE of Kitsuki, Japan",
+                "time": 1400634683340,
+                "updated": 1408783001000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rc3s",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000rc3s&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "c000rc3s",
+                "ids": ",usc000rc3s,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.997,
+                "rms": 0.89,
+                "gap": 62,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 34 km ENE of Kitsuki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9293,
+                    33.5942,
+                    88.85
+                ]
+            },
+            "id": "usc000rc3s"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "136 km SW of Ongjin, North Korea",
+                "time": 1396295316370,
+                "updated": 1658835844104,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000nxva",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000nxva&format=geojson",
+                "felt": 15,
+                "cdi": 3.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 390,
+                "net": "us",
+                "code": "c000nxva",
+                "ids": ",usc000nxva,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.809,
+                "rms": 0.78,
+                "gap": 29,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.0 - 136 km SW of Ongjin, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.4617,
+                    36.9367,
+                    17.93
+                ]
+            },
+            "id": "usc000nxva"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "33 km SSW of Hikari, Japan",
+                "time": 1395486339270,
+                "updated": 1658830737667,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000nkyw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000nkyw&format=geojson",
+                "felt": 3,
+                "cdi": 2.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "c000nkyw",
+                "ids": ",usc000nkyw,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.984,
+                "rms": 1.05,
+                "gap": 52,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 33 km SSW of Hikari, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.8645,
+                    33.6617,
+                    85.66
+                ]
+            },
+            "id": "usc000nkyw"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "32 km SSW of Hikari, Japan",
+                "time": 1394730410770,
+                "updated": 1658827714691,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000nabv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000nabv&format=geojson",
+                "felt": 42,
+                "cdi": 7.2,
+                "mmi": 5.635,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 641,
+                "net": "us",
+                "code": "c000nabv",
+                "ids": ",usc000nabv,iscgem604156129,atlas20140313170650,",
+                "sources": ",us,iscgem,atlas,",
+                "types": ",cap,dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.969,
+                "rms": 1.28,
+                "gap": 12,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 32 km SSW of Hikari, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.8249,
+                    33.6842,
+                    79
+                ]
+            },
+            "id": "usc000nabv"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "171 km SSE of Zarubino, Russia",
+                "time": 1389521078030,
+                "updated": 1394854755000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000m1iz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000m1iz&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "c000m1iz",
+                "ids": ",usc000m1iz,",
+                "sources": ",us,",
+                "types": ",cap,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.963,
+                "rms": 0.75,
+                "gap": 51,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 171 km SSE of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9796,
+                    41.2351,
+                    531.29
+                ]
+            },
+            "id": "usc000m1iz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.8,
+                "place": "80 km WSW of Ongjin, North Korea",
+                "time": 1368828145780,
+                "updated": 1427221302551,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2013qha6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2013qha6&format=geojson",
+                "felt": 10,
+                "cdi": 3.1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 358,
+                "net": "us",
+                "code": "2013qha6",
+                "ids": ",us2013qha6,usb000gy0e,",
+                "sources": ",us,us,",
+                "types": ",associate,cap,dyfi,impact-text,origin,phase-data,",
+                "nst": 100,
+                "dmin": null,
+                "rms": 1.03,
+                "gap": 35.6,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.8 - 80 km WSW of Ongjin, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.531,
+                    37.631,
+                    10
+                ]
+            },
+            "id": "us2013qha6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.8,
+                "place": "156 km WNW of Sinan, South Korea",
+                "time": 1366500089460,
+                "updated": 1658708018561,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcwz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000gcwz&format=geojson",
+                "felt": 7,
+                "cdi": 3.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 357,
+                "net": "us",
+                "code": "b000gcwz",
+                "ids": ",usb000gcwz,",
+                "sources": ",us,",
+                "types": ",cap,dyfi,impact-text,origin,phase-data,",
+                "nst": 135,
+                "dmin": null,
+                "rms": 0.92,
+                "gap": 55.3,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.8 - 156 km WNW of Sinan, South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.447,
+                    35.16,
+                    10
+                ]
+            },
+            "id": "usb000gcwz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.8,
+                "place": "13 km NW of Zarubino, Russia",
+                "time": 1365208195090,
+                "updated": 1651594404028,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000g128",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000g128&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 2.56,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 518,
+                "net": "us",
+                "code": "b000g128",
+                "ids": ",usb000g128,iscgem602761442,",
+                "sources": ",us,iscgem,",
+                "types": ",cap,impact-text,losspager,moment-tensor,origin,phase-data,scitech-link,shakemap,",
+                "nst": 654,
+                "dmin": null,
+                "rms": 0.78,
+                "gap": 24.8,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.8 - 13 km NW of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.976,
+                    42.726,
+                    562.8
+                ]
+            },
+            "id": "usb000g128"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "13 km NNW of Zarubino, Russia",
+                "time": 1365166802130,
+                "updated": 1651598767665,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000g0cq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000g0cq&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 2.99,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "us",
+                "code": "b000g0cq",
+                "ids": ",usb000g0cq,iscgem607304526,",
+                "sources": ",us,iscgem,",
+                "types": ",cap,impact-text,losspager,moment-tensor,origin,phase-data,scitech-link,shakemap,",
+                "nst": 680,
+                "dmin": null,
+                "rms": 0.86,
+                "gap": 16.5,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 13 km NNW of Zarubino, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.003,
+                    42.736,
+                    563.3
+                ]
+            },
+            "id": "usb000g0cq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "18 km ENE of S?ngjibaegam, North Korea",
+                "time": 1360637871490,
+                "updated": 1658685400457,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f5t0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000f5t0&format=geojson",
+                "felt": 14,
+                "cdi": 5.5,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 700,
+                "net": "us",
+                "code": "c000f5t0",
+                "ids": ",usc000f5t0,",
+                "sources": ",us,",
+                "types": ",dyfi,general-link,general-text,impact-text,origin,phase-data,significance,",
+                "nst": 426,
+                "dmin": null,
+                "rms": 0.82,
+                "gap": 39.1,
+                "magType": "mb",
+                "type": "nuclear explosion",
+                "title": "M 5.1 Nuclear Explosion - 18 km ENE of S?ngjibaegam, North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.004,
+                    41.299,
+                    0
+                ]
+            },
+            "id": "usc000f5t0"
+        }
+    ],
+    "bbox": [
+        124.047,
+        33.001,
+        0,
+        131.9925,
+        42.8297,
+        644.879
+    ]
+}
